@@ -14,7 +14,7 @@ This project is an implementation of the classic Snake game, where the player co
 
 ## Installation
 
-2. Clone the Git repository:
+Clone the Git repository: `git@github.com:Musedd/snake_game.git`
 
 ## Running the Application
 
