@@ -1,6 +1,6 @@
 # Snake Game
 
-A simple Snake game developed in [Your chosen programming language, e.g., Python].
+A simple Snake game developed in Python.
 
 ## Game Description
 
